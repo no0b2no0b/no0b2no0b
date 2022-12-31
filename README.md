@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ajay Yadav, 4th year student of B.Tech pursuing Computer Science and Engineering
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and App development
 - 🌱 I’m currently learning Javascript for Frontend Development
 - 📫 You can reach me via Linkedin : https://www.linkedin.com/in/ajay-yadav-8505481b1/
 
