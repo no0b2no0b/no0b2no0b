@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ajay Yadav, 4th year student of B.Tech pursuing Computer Science and Engineering
+- 👋 Hi, I’m Ajay Yadav, pursuing my Master's in Automation and Robotics
 - 👀 I’m interested in Web Development and App development
 - 🌱 I’m currently learning React Library for Frontend Development
 - 📫 You can reach me via Linkedin : https://www.linkedin.com/in/ajay-yadav-a24082270/
