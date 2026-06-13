@@ -1,6 +1,8 @@
 
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning <br>🤝 I’m looking for help with AI/ML and Deep Learning <br>🌱 I’m currently learning Neural Networking and CNN<br>💬 Ask me about C++, Python and Web Development <br>⚡ Fun fact I cook good food.
+🔭 I’m currently working on Deep Learning <br>🔬 Interested in Signal Processing, Machine Learning, and Real-Time Systems  
+<br>🐍 Skilled in Python, C++, TensorFlow, OpenCV, and Flutter  
+<br>🚀 Always exploring innovative technologies to solve real-world challenges <br>💬 Ask me about C++, Python and Web Development <br>⚡ Fun fact I cook good food.
 
 
 ## 🌐 Socials:
